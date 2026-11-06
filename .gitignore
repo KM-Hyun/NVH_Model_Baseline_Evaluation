@@ -6,3 +6,5 @@ __pycache__/
 /upload_background.pid
 /upload_background.lock
 /source_audio.tar.gz
+/audio_samples/
+/audio_samples_preview/
