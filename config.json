@@ -1,0 +1,42 @@
+{
+  "sample_rate": 10000,
+  "duration_seconds": 3601.704,
+  "source_samples": 36017040,
+  "segment_seconds": 15,
+  "segment_overlap": 0.75,
+  "segment_hop_seconds": 3.75,
+  "n_fft": 5000,
+  "fft_window_seconds": 0.5,
+  "fft_overlap": 0.6,
+  "fft_hop_seconds": 0.2,
+  "fft_window": "periodic Hann",
+  "resolution_hz": 2,
+  "stft_shape": [
+    2501,
+    73
+  ],
+  "magnitude_scaling": "abs(rfft(windowed signal))/sum(window)",
+  "energy_average": "mean_t(one_sided_power); interior frequencies doubled; DC/Nyquist not doubled",
+  "rms_spectrum": "sqrt(energy_average)",
+  "full_recording_rms": [
+    0.0867927250415838,
+    0.08902623904041279,
+    0.11298951279400786
+  ],
+  "shared_gain": 0.10428901628322386,
+  "normalization": "full-recording equal RMS, shared peak gain; no segment peak or power compression",
+  "sample_count": 957,
+  "splits": {
+    "train": 766,
+    "validation": 92,
+    "test": 91,
+    "excluded_boundary": 8
+  },
+  "track_count": 160,
+  "tail_unused_seconds": 1.704,
+  "split_boundary_seconds": [
+    2884.716,
+    3246.872
+  ],
+  "split_strategy": "chronological, snapped to original instrument-track boundaries; overlapping boundary windows excluded"
+}

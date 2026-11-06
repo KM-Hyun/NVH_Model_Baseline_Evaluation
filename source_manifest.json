@@ -1,0 +1,1613 @@
+{
+  "files": [
+    {
+      "path": "data/266180__acertingart__hood-fan.mp3",
+      "bytes": 144073949,
+      "sha256": "43f517a93e3806eee4734feeef86bf183692267399258f2df377c5c492badf81"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096001/clarinet.wav",
+      "bytes": 612396,
+      "sha256": "07695bd686b1a39461d4256cd0baebec547b5d05ba48b5fb3d34458f2dde8d55"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096001/flute.wav",
+      "bytes": 612396,
+      "sha256": "f28ecffc19ccac4dbeaaa346955e04056d6befd7ebaeff1dbfb13c585a761e7f"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096002/clarinet.wav",
+      "bytes": 520108,
+      "sha256": "6038bcb537ef6c6f37a3056e396504fe08c83dacf3ad2df53428598bb88dfdf2"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096002/flute.wav",
+      "bytes": 520108,
+      "sha256": "7400a5a773d13204ca1097f7067409ab7baa217676c7b19105efdf0e5840754d"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096003/clarinet.wav",
+      "bytes": 672300,
+      "sha256": "58043fd6ec5e6a52cc4772275d978408964fcec6b1f76b7671b552900a31e133"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096003/flute.wav",
+      "bytes": 672300,
+      "sha256": "7a75125232ee407f09cd3a07c6bf76865d50d2b3af57ed07b787f415983e713f"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096004/clarinet.wav",
+      "bytes": 462508,
+      "sha256": "20c9483544def55f1c4583e07a4c561e3ed6b4199ea5275b4d4c90ffb8896191"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096004/flute.wav",
+      "bytes": 462508,
+      "sha256": "8190a145cd0082e01e803a98fa1284a805839c9d0e6c8fb90bf16521db2637ee"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096005/clarinet.wav",
+      "bytes": 1056556,
+      "sha256": "a57ba60d825fa36caee91397084a6e0da5736abc03a560b356c31b16ee0523f4"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096005/flute.wav",
+      "bytes": 1056556,
+      "sha256": "54b11b48f07c05e927e338c16e631ada07c82100677c026c91111cabc9653ada"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096006/clarinet.wav",
+      "bytes": 456748,
+      "sha256": "97b237fb2e6a923df73878a1348fb4946944cb5f946a16cc214f97307b30539d"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096006/flute.wav",
+      "bytes": 456748,
+      "sha256": "7b78c49e677b4234b69820d6905a716920c9db9bb54cb2728a6767a9f4c6111e"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096007/clarinet.wav",
+      "bytes": 949932,
+      "sha256": "042f7263014f15c7053b26e3fbaff52cdcb0a32f3923c3e44b021c64fe06c8f1"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096007/flute.wav",
+      "bytes": 949932,
+      "sha256": "b27460c88f9e913ab8ac73e5ff20aa806850ab0cf12608f9e8ca6b55048e677f"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096008/clarinet.wav",
+      "bytes": 977836,
+      "sha256": "9b4db7c0ec1e41908fbdfb4f74dce984da0615213db79c4134c428f25b22ff64"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096008/flute.wav",
+      "bytes": 977836,
+      "sha256": "ba2a6dd1aa2ddd09bd3529a2af3213803708609ddd97a147719908e03739ee82"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096009/clarinet.wav",
+      "bytes": 516140,
+      "sha256": "0c077682431b36908e167b2d339e35d91ad5e26550af7e7cc9ec3246b9734a92"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096009/flute.wav",
+      "bytes": 516140,
+      "sha256": "ef29b3360dfef6203e335e49972d5fb3903befa7d67c9f2e30b79f6f8b15c98c"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096010/clarinet.wav",
+      "bytes": 467500,
+      "sha256": "c2451fc1215c107fa08fe23bf0af5e483979470a3d1effd9b09974736d3b6b33"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096010/flute.wav",
+      "bytes": 467500,
+      "sha256": "8fa2762dc6dfeed4d5c87cc543276b412cf9601f1ab3561f10b4f995fc95e9e5"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096011/clarinet.wav",
+      "bytes": 1213868,
+      "sha256": "f3d78974cc6e62064e437a8c2a85a9aaed4000b701fa72300ac557032d7e9b8d"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096011/flute.wav",
+      "bytes": 1213868,
+      "sha256": "8fa7c0be6bd33cde29720fa61ccc2064a0392a012bd088d6a55eaff402fe0173"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096012/clarinet.wav",
+      "bytes": 474028,
+      "sha256": "46933e235f2b6d2e0a1d9a426d1b9b4d28e9fce28d8969589ebe3d4fa7766478"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096012/flute.wav",
+      "bytes": 474028,
+      "sha256": "54af3840e8b55c6a5f1d8f66dcc937a1d053c8134a0cd26b946abfc9827e70c2"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096013/clarinet.wav",
+      "bytes": 552876,
+      "sha256": "a92335263fa35930be168adf8815a72cf8eb3d70db393202e437e96e20174e24"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096013/flute.wav",
+      "bytes": 552876,
+      "sha256": "57926209368ee2c9ef42c2bf3b741039f458bb7dfaa53ab9431848b81049c51a"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096014/clarinet.wav",
+      "bytes": 484140,
+      "sha256": "18f8872eef7c0c7b91c27f16cf77cd00bce03c69ca1bb038d8a9d85a566aff49"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096014/flute.wav",
+      "bytes": 484140,
+      "sha256": "3a43b81793e50a4462d7683b42bb8cca28fbae43bac3742449d8814de2d105f0"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096015/clarinet.wav",
+      "bytes": 509100,
+      "sha256": "b7aebd15455a2028009004713fceb2c04acc19ddb02ba3f037bc9abaa0454fbf"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096015/flute.wav",
+      "bytes": 509100,
+      "sha256": "66f781b7e65d445ea16d750f9731a994f862bf9e54a0f2d0abe768bdcf3c2f6d"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096016/clarinet.wav",
+      "bytes": 477612,
+      "sha256": "12c4c75fb0241b3213c17f362d439d43dfe4924f4a8ef4602525b6a4ea7e943e"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096016/flute.wav",
+      "bytes": 477612,
+      "sha256": "fa4698e421e6fa960ac51a6401f01795bf39a52192a0ec2aecb32ba63bf6d5fd"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096017/clarinet.wav",
+      "bytes": 623020,
+      "sha256": "86c1c76d80ee2671aa60fed6b4514ec968d488f963d14bae85b3a306b0a4e16a"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096017/flute.wav",
+      "bytes": 623020,
+      "sha256": "69abdbe06126672a6983e4221f737fd806ab3579c94d70277caa1d25bd58f078"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096018/clarinet.wav",
+      "bytes": 478252,
+      "sha256": "ce4d5ec42043468234b90980dae9ccbdce6e04a0be65fa0548e0f425e22b3072"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096018/flute.wav",
+      "bytes": 478252,
+      "sha256": "fcecd03e233da85a516ae9c101b686db4fbfe86c74b6bd7df8828700e6036b39"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096019/clarinet.wav",
+      "bytes": 659244,
+      "sha256": "337260c93903dbf6fbe1d828f83cf75e548620820d2f666607fb2ca194f04d71"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096019/flute.wav",
+      "bytes": 659244,
+      "sha256": "9d7d2f1d525084bf09e345abdb6ff91b244c9d755b371fb749f8eea3f310bc3a"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096020/clarinet.wav",
+      "bytes": 629676,
+      "sha256": "388ef25623bafac8979f2c0d450cdb53faf08279c0f414eed359b8e526d76f6e"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096020/flute.wav",
+      "bytes": 629676,
+      "sha256": "3fbedd095d8100af0f7d3e0b19d2c13c457fe92c7a1d446a47355979f7ef7fde"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096021/clarinet.wav",
+      "bytes": 544556,
+      "sha256": "b806ddc7a732d64b2a3dd2b2727144bcd4d5ebc8554bf1baecf1334cb2fd7c1f"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096021/flute.wav",
+      "bytes": 544556,
+      "sha256": "ad50ee0f884d01b560a83bc7483cacd95b3e1d1cbe69569ce2180d0941b9308d"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096022/clarinet.wav",
+      "bytes": 948908,
+      "sha256": "9cb841f70d5b63d3b4f6990a2b621373c95c152d4cfacf9880f4fc18bdc543e9"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096022/flute.wav",
+      "bytes": 948908,
+      "sha256": "02e9644f3938998a344b62fdae7b5781e3da0cfc8b0caaffb11fffa2d394b2b9"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096023/clarinet.wav",
+      "bytes": 693036,
+      "sha256": "e364c7731595a0e7fbdba2b532fe53c7a04111ecab01a80c9ac5ea1f7afd94ff"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096023/flute.wav",
+      "bytes": 693036,
+      "sha256": "cb657669d4ffc481489729c83206672e74bdfb6e17af3136edc5a8731f7e3705"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096024/clarinet.wav",
+      "bytes": 910380,
+      "sha256": "7f47974ef75da6fcc4228a44e7d33488f9ec7848d50d433e7cd51a3f09b4d57d"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096024/flute.wav",
+      "bytes": 910380,
+      "sha256": "56c914807927b793c3275bfe5fe65420cd49d8b5237dced8766f13660333e18f"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096025/clarinet.wav",
+      "bytes": 963372,
+      "sha256": "5dc191ea9a870b667f51f4873677cd3016f3b119adfa024f2fb7d3df466b2d85"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096025/flute.wav",
+      "bytes": 963372,
+      "sha256": "6e873d0d1122550e658ad2cbdbfd5c7c14a8471e7099e5c6dd51e54822b8e36c"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096026/clarinet.wav",
+      "bytes": 487212,
+      "sha256": "3a263eb86a0bd5288f1cb7b5b02812fd28230136a614bdfa64e98f25b17ad705"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096026/flute.wav",
+      "bytes": 487212,
+      "sha256": "1346fcd385edd5acebd4513644014fad073137546bac9bdbc12ce047311ec4f1"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096027/clarinet.wav",
+      "bytes": 885420,
+      "sha256": "aa55b9181d6f9ebf674a27dacd53ac5e0b62b97bfeb5b801715f41c74a899eba"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096027/flute.wav",
+      "bytes": 885420,
+      "sha256": "774bf832020361f079f8b252bfb226f027aae9ceb9927989314fb3beab23e79b"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096028/clarinet.wav",
+      "bytes": 886060,
+      "sha256": "1a2962dde02e46bbecd09111a70dbfa6491ea7363d5dd07db482758725534d74"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096028/flute.wav",
+      "bytes": 886060,
+      "sha256": "42e6b04292f15a4d54a1db03cba37e6159d983d9229f1d3ab6bcfceab4f9b318"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096029/clarinet.wav",
+      "bytes": 693036,
+      "sha256": "d34de8357d80b4f024a5e0b343930f42b4f11d071fe8368771d82bd1f6a7806b"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096029/flute.wav",
+      "bytes": 693036,
+      "sha256": "0f8ed766aa6ba5303507a202fcf7f8e565d349001107aa2ed42b5ba515ae98a7"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096030/clarinet.wav",
+      "bytes": 1023276,
+      "sha256": "f860d771f108a52f08fe1f2acef5b70f3baef02bd0362d6ce04f9c2c847c5d57"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096030/flute.wav",
+      "bytes": 1023276,
+      "sha256": "89c4042ddc0b34cb945417e48eff71bbc91c5e306ffaf6ef532bcba1df075864"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096031/clarinet.wav",
+      "bytes": 1023404,
+      "sha256": "32ae4bcac45b13d8acbbe212ea394c0e4aff33d7dca002e0c57e53e292f5c26b"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096031/flute.wav",
+      "bytes": 1023404,
+      "sha256": "b5d6a24c7722f09c8b69b8abfb543cc720853fb59289b23a2db4a0b2c6641a98"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096032/clarinet.wav",
+      "bytes": 885932,
+      "sha256": "fada4da5d4c035464f7172518acffe726a18e15c6e72b5f60478362ea0c7d59f"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096032/flute.wav",
+      "bytes": 885932,
+      "sha256": "89940afe1041c10ff9a5818f194dde66af48e050369f9d9d57a94bc4753c880f"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096033/clarinet.wav",
+      "bytes": 820780,
+      "sha256": "30d12081ebe9bd0f32825cec3daa463278753ea2e7e77ea75528bdf97cf10286"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096033/flute.wav",
+      "bytes": 820780,
+      "sha256": "c7f5f10852cbd0caa615fb8ca6328bc4f2b1e36a9f66603e651714b34063f502"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096034/clarinet.wav",
+      "bytes": 772652,
+      "sha256": "c32a926dd2d61ea6dcd9d5fb703b5431bb82f76936c9665d1105b84bb6fffff6"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096034/flute.wav",
+      "bytes": 772652,
+      "sha256": "06126afc8f11d3b67c466b892254a460da7fd96891e7d1581448df0389586dee"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096035/clarinet.wav",
+      "bytes": 459052,
+      "sha256": "88c7e4c564acd747c82c2571a84304c40702a1eaa348bbb9b61a0f65b01b60b5"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096035/flute.wav",
+      "bytes": 459052,
+      "sha256": "20c35bc7da72e1e7ff7361553af7621e5ed974b2a0af650e471a1d845ea141d3"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096036/clarinet.wav",
+      "bytes": 977708,
+      "sha256": "03c92bc2a3d026a1c857b3c1628353101997a4e50234ae39505dd9d93a543b44"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096036/flute.wav",
+      "bytes": 977708,
+      "sha256": "b6b38e372416adf3a86582f2277f252374b70a1126d6384f459c261ddf7bbcef"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096037/clarinet.wav",
+      "bytes": 536236,
+      "sha256": "d028bc0caa6c7ee4b068503c7cf68f100d41738fbf241453284c0f09d69c3c2c"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096037/flute.wav",
+      "bytes": 536236,
+      "sha256": "3c8a7459ea86bfc0d45caffdb8f1b973741c0fda0f5914490586d915e1bd1139"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096038/clarinet.wav",
+      "bytes": 679212,
+      "sha256": "7aad5f796dbc1c2903d2388dcecac71613b442bf6b3c678d8b59d3372d14dec4"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096038/flute.wav",
+      "bytes": 679212,
+      "sha256": "8312288969479db681a295d6f974b36bc1b34c51ab6db08db8882a0b3ff2ad8e"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096039/clarinet.wav",
+      "bytes": 730284,
+      "sha256": "6d333880737b94872686824ab0e251a1c279f72212947316a657fb94594aadb0"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096039/flute.wav",
+      "bytes": 730284,
+      "sha256": "03ffa173ffd9550b9dc152e752d332950d9cbc71b544c8707f5f2686d8161119"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096040/clarinet.wav",
+      "bytes": 515500,
+      "sha256": "7f32fe08ed589466ae2ec34a17a9c42ad2a3066611a815c8d0c4d9589c577d1b"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096040/flute.wav",
+      "bytes": 515500,
+      "sha256": "569552a085b70619dd8f3cd0edd99045a72873b8e984ebb308e8f9c4ad1348cd"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096041/clarinet.wav",
+      "bytes": 1236780,
+      "sha256": "9fe0b31983a9925e8f7d6d020f236423b0cea5feed9fdd652564dfc546571a35"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096041/flute.wav",
+      "bytes": 1236780,
+      "sha256": "fdee7f85b4cfb4ab977338e904dcc5f11bdca0e5d766bd96da0c6a5e45586d77"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096042/clarinet.wav",
+      "bytes": 1073708,
+      "sha256": "2f05e6d8a420eac6fbe4a30b9cd8b62d484e61530576605421f6e184391db405"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096042/flute.wav",
+      "bytes": 1073708,
+      "sha256": "639152a15ea14c84fd9d5acba1e8ee3f7ff0d41cceebbde08cfccba8d9671ef6"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096043/clarinet.wav",
+      "bytes": 910508,
+      "sha256": "e66ed2717c22f48164a406746d1cc25521d69fa4072d94230ca1e7ffa1a83c2d"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096043/flute.wav",
+      "bytes": 910508,
+      "sha256": "73f3a0be5c849ab0112c19ef82b1413b5435b3518670c312888ff80295a8ddd5"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096044/clarinet.wav",
+      "bytes": 606124,
+      "sha256": "aaf4ec728c6fcdf954eabc32b4a0184e10f28f999c08e2b3bd0a557f47c10980"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096044/flute.wav",
+      "bytes": 606124,
+      "sha256": "15f103dd09f5366d4abc05aa26be39c43209070e7fd7cbbb6c5cfb3645c33f03"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096045/clarinet.wav",
+      "bytes": 553132,
+      "sha256": "0c0c372ae608f7b21e7ebc3df0b8ab229e600e17f3a13b20b5b35e96a7944af6"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096045/flute.wav",
+      "bytes": 553132,
+      "sha256": "70f2c2e8f8733195c46077d7d9d9ff5a2413f19c97dd2f5296fd46734a3dda02"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096046/clarinet.wav",
+      "bytes": 693036,
+      "sha256": "4748ca99dac69a802e3aceb8c6a3568f2bda225bcac88f0c4b0eeeacedf7a101"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096046/flute.wav",
+      "bytes": 693036,
+      "sha256": "0fcafd0978193085fba959bd01fac3a378e7f2363d48b93658496ca79c88039b"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096047/clarinet.wav",
+      "bytes": 628908,
+      "sha256": "2f2adbb13382bc385ba131d1b21eaef77fd02dce629f379fde631dfaed6b9355"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096047/flute.wav",
+      "bytes": 628908,
+      "sha256": "8611772b947dae3c1b845de6a797a0aa7eb914f6d8300d3191927245b34c6f08"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096048/clarinet.wav",
+      "bytes": 1149484,
+      "sha256": "d35198da0838c661646fcd77718bbb509478898a734c55df4cf6d19c6084643c"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096048/flute.wav",
+      "bytes": 1149484,
+      "sha256": "5a6544cbcd9f66c30440cdc6a9adb9892dafe645b73d68a3bd9d1298368cd082"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096049/clarinet.wav",
+      "bytes": 1056300,
+      "sha256": "3e00484358d45fd4012fa2b43526b6c52338c8b90d36d2b9e7b7b1055f6e8773"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096049/flute.wav",
+      "bytes": 1056300,
+      "sha256": "57b323bbaab232af756ea8c904b6749977437aa61024cbc433b1c86c567801b6"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096050/clarinet.wav",
+      "bytes": 738860,
+      "sha256": "f43c8be264cff60213cb9ae3bc49b3fc3295539ceb3c3b3207b3cdbd9524e948"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096050/flute.wav",
+      "bytes": 738860,
+      "sha256": "1bed4ef1d4812233fc0b9d94388c65ad4b8fba4010b28693c2961db1ee7c9dd1"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096051/clarinet.wav",
+      "bytes": 647084,
+      "sha256": "218ae638d0ac03f1be26411d4616deb6cff504e570491c876ea75704abb4fecc"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096051/flute.wav",
+      "bytes": 647084,
+      "sha256": "ef9ce6378370f8fc483fa386192a86d7291b6a7e42109cdedfcd78562dff541b"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096052/clarinet.wav",
+      "bytes": 646828,
+      "sha256": "cbe8483814888e3dae456e1365fa4a5a5d0546678bc506d377d60ab9f20382a8"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096052/flute.wav",
+      "bytes": 646828,
+      "sha256": "2a82fd5d021895724aa8d3c3a37714facd17cafc9db918da9c10b30e4558f905"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096053/clarinet.wav",
+      "bytes": 1170348,
+      "sha256": "4d9663cd31ef81b8dc7d1b62e8d73bc23723c4cd199d16a2eea23af23bb72f8b"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096053/flute.wav",
+      "bytes": 1170348,
+      "sha256": "c2c8cefcc572c03f8e255037c5916a49d1224bd7716e88e196eb731ead0950e9"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096054/clarinet.wav",
+      "bytes": 863148,
+      "sha256": "936e7c194e709976515767344e20f166da16c689fe89a7afcc5bba2cca4e92fc"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096054/flute.wav",
+      "bytes": 863148,
+      "sha256": "658fc94c1c2453bfe9250a306818ca6a83597dab75af655e5c5f1e35bcfc457c"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096055/clarinet.wav",
+      "bytes": 886700,
+      "sha256": "070b50c687559c3e6d68f6b08c7890f3ea9c71fbef8783eaa27fee3b5be9f5e8"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096055/flute.wav",
+      "bytes": 886700,
+      "sha256": "056539d12950c271f4b12161a9c044c05e5bf2416c768fbe53831693d3afabc0"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096056/clarinet.wav",
+      "bytes": 992300,
+      "sha256": "4c652a44ad5af4fc49823bc0b0d6eefaaa97d4c54ca88d5fdc4870e176b83e7e"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096056/flute.wav",
+      "bytes": 992300,
+      "sha256": "e3967358ddbfbb89e48324fa1992f01c4a6f4f43cfd13f7eef96b3dc9094cebc"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096057/clarinet.wav",
+      "bytes": 665772,
+      "sha256": "fa1b7972cd29d46f7e999818c97d8b49eb7f74ab6c2b2099bf8c9260f2dbff6c"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096057/flute.wav",
+      "bytes": 665772,
+      "sha256": "52263f575e9c3e6341e67cb58ff5f03637709d2fac9cf55dc4e7911e2ae061b3"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096058/clarinet.wav",
+      "bytes": 634796,
+      "sha256": "dfcabff54fe9495f4aa1eef2711acf6ba4f71c577fcbbcfac39ee356d87a2e9e"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096058/flute.wav",
+      "bytes": 634796,
+      "sha256": "0c4468ef946ca30532e6db794a919d58cbcd22fdf21a077dcb8c8f6b5febd5ac"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096059/clarinet.wav",
+      "bytes": 623404,
+      "sha256": "345868e352a051a9e2d416df73d5b5263b9d858dd0063f86cc4859498149e839"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096059/flute.wav",
+      "bytes": 623404,
+      "sha256": "327257875a8b729d9049b658919316190e414697621e26386436bcd8a61e9a34"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096060/clarinet.wav",
+      "bytes": 693164,
+      "sha256": "83aa56b867001ace8389453a948cd87a41869034c8910c3dc9771d95bfecbb4b"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096060/flute.wav",
+      "bytes": 693164,
+      "sha256": "f1530e0c8ded57d253c6a09b46307e9b2f74e0ec8c8132ffe8666eca7a0bfcf8"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096061/clarinet.wav",
+      "bytes": 634284,
+      "sha256": "7747fd151a12aab5a2a31788374588bb433ffdcd6ae4e2fdf202d039d5f9f720"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096061/flute.wav",
+      "bytes": 634284,
+      "sha256": "d3587f85f29d686aeb86becb9a0ea42011ce42530053d54a5d567dde1dda5a11"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096062/clarinet.wav",
+      "bytes": 528172,
+      "sha256": "63845b7c4bea648624eb67dd177b5fdf310fe0f9e77a7e5ed83b5e39f1f8b53d"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096062/flute.wav",
+      "bytes": 528172,
+      "sha256": "4f8754ddad2f42436fc40f8202216a63434671f781e97f12454a8eb0aa1f7e37"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096063/clarinet.wav",
+      "bytes": 562476,
+      "sha256": "02eb19806984f6e54ce29a7074cd3b752238e271b643f4c87840dc928f45ec83"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096063/flute.wav",
+      "bytes": 562476,
+      "sha256": "d6ad5e564b8dc78643056c5da6b4fda71b4be8f67ffd650bdba7ddfd19fa0208"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096064/clarinet.wav",
+      "bytes": 949292,
+      "sha256": "07a3256cadbcf2122709b8bac944283aae245c1a6b670e5274bc63db681d0d84"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096064/flute.wav",
+      "bytes": 949292,
+      "sha256": "edd9641347ea6c89da6364de11f5612e7a16a2b3f6864129903543513df74aa1"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096065/clarinet.wav",
+      "bytes": 596652,
+      "sha256": "0055013e9acab40b96fc04a4c020be5dd6979a40d7de6d7d1b59460f13672b6d"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096065/flute.wav",
+      "bytes": 596652,
+      "sha256": "adb23289839680f86165770d124d12d95a01b9189648287ccd555419f8fd28b1"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096066/clarinet.wav",
+      "bytes": 738732,
+      "sha256": "0cac55ff7d368bfc20db675c58ba261f5d91095214cc63c0216cfb819ab3e09e"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096066/flute.wav",
+      "bytes": 738732,
+      "sha256": "a7d510ed4e9ca09395076261b102cdf9f1127674c0e09db7f8600ec4b91ea282"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096067/clarinet.wav",
+      "bytes": 442028,
+      "sha256": "741ebae6c2e891e3b337eefbf5bddfaa2dafb2a3257dff21087cbd9911dd1a8e"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096067/flute.wav",
+      "bytes": 442028,
+      "sha256": "35d54084e6c7997c5f4057593760ef33f2f035274857c5313fd628fcf8962394"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096068/clarinet.wav",
+      "bytes": 581164,
+      "sha256": "550989a43d25cfcd1873ed9d04ea03f1200dada1a303833ea9e132435cf7dcb6"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096068/flute.wav",
+      "bytes": 581164,
+      "sha256": "c4557da54f156eb67f14bca0cf2c539c619468ec65cae969c64627e20bbda187"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096069/clarinet.wav",
+      "bytes": 672812,
+      "sha256": "5f1ce22c4dc75ee6237a89281694a21ec97ea066c6b44a907fde9c45e01adf29"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096069/flute.wav",
+      "bytes": 672812,
+      "sha256": "c4f37444c5d7e3d307d5a9eee537f4cf3d6aa2820cfa79dc5a6ef052d841edf3"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096070/clarinet.wav",
+      "bytes": 544300,
+      "sha256": "efce98df0681da2f244d03402dae5b4bd45984de601c3c31791613997242574a"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096070/flute.wav",
+      "bytes": 544300,
+      "sha256": "51054f1b776a67a1fd0a3d3bb16311d9751bb6818e539a0f1d9542c2ec607f9a"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096071/clarinet.wav",
+      "bytes": 477868,
+      "sha256": "22ed62492b415229e3299e6043743e5a4bbdcf9b105ba88201176f2a67f8688b"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096071/flute.wav",
+      "bytes": 477868,
+      "sha256": "3a7bff765bdef81f1edb895f73911aec92ed68744d271ea36f1de620e068b86b"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096072/clarinet.wav",
+      "bytes": 679468,
+      "sha256": "777a8dea4ee9659271472ae3b282c1d3ada71676744468bad062eff8831fb911"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096072/flute.wav",
+      "bytes": 679468,
+      "sha256": "6830dc2412b79499ea9d04504c483abcec35c1a6cdc5cd2755ab761258d71be6"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096073/clarinet.wav",
+      "bytes": 490924,
+      "sha256": "859b00ba5a113312312754520ad3dbe6e4269a2074dc6e05dc0d794c1dcbffae"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096073/flute.wav",
+      "bytes": 490924,
+      "sha256": "efa5a04b2f72a6f6f72495dfd4c460e536da9eca14a533253751050bba88a91b"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096074/clarinet.wav",
+      "bytes": 820652,
+      "sha256": "1fe79d0376e1c10605461f46c3070d503ee479a4ad145c53bc2f083b91bcd4e8"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096074/flute.wav",
+      "bytes": 820652,
+      "sha256": "1cab72efb6d001dae9c90f7c71d6e0a02098a98bf329d1185f29d847a0923000"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096075/clarinet.wav",
+      "bytes": 820140,
+      "sha256": "600d8137b15625ba940a6b78c57e1d6afdcb442cb5f505e091d95480c7a513bf"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096075/flute.wav",
+      "bytes": 820140,
+      "sha256": "947f2094750eb3e192720469f565a04a60b7a3bea0002cc26e90f1847148ea4d"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096076/clarinet.wav",
+      "bytes": 692652,
+      "sha256": "3c851f27e548ccf782101c743d50662929c6ee13db1ded504ad6099dc069a608"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096076/flute.wav",
+      "bytes": 692652,
+      "sha256": "7cfdbba2f9c2f1ad58da92a03665f8f9bd5aa180061c09b1deded1138218551c"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096077/clarinet.wav",
+      "bytes": 1091244,
+      "sha256": "d40e897fb82ac6a98ac0f337f1280ae7dd3ba48d577de077693f807be307b5a5"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096077/flute.wav",
+      "bytes": 1091244,
+      "sha256": "c38a5f5c88b5c3fbfdc230cee8f8660737e06c8eff49164c44ee4ea51f4a7006"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096078/clarinet.wav",
+      "bytes": 471980,
+      "sha256": "8b7a2ccc269a082b5f1de06e9bcb19daa04215cc6af9c2f216d46c2d892b9dfd"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096078/flute.wav",
+      "bytes": 471980,
+      "sha256": "7bf954a58684d71fe22b8485006930625a0b64e3d91c0f918b6673fe2690bdfa"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096079/clarinet.wav",
+      "bytes": 746924,
+      "sha256": "2d58a9055450d43bb124c6e8534f40a429ef73bd349f9d45c8b05c3fd40669f7"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096079/flute.wav",
+      "bytes": 746924,
+      "sha256": "8f79dfbd2f0ceb2ef961b102aae9f4d298887623909e45eef2cb8994b9443ab0"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096080/clarinet.wav",
+      "bytes": 660012,
+      "sha256": "4320cf817f96e100e0231db47c77edbdff8be7304adbbcc7598f1d24ceb79a2d"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096080/flute.wav",
+      "bytes": 660012,
+      "sha256": "714dc9b9cb9886faa8d8f8757ce7e903da93df65a0d15cb18454d36697f06945"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096081/clarinet.wav",
+      "bytes": 862380,
+      "sha256": "1018aced353900dd5c1c13557c52ccdcb1758711dcc607fd837ee650baa4dd97"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096081/flute.wav",
+      "bytes": 862380,
+      "sha256": "95ae75431f3fb9c6d233ac2e2d3761cec3c6d00e6f928469d53696dc1a16f49b"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096082/clarinet.wav",
+      "bytes": 451372,
+      "sha256": "3a5020f162ba5ba1f69a95da9c27e7f66ab27c715962fd2f87a3dc8861518be5"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096082/flute.wav",
+      "bytes": 451372,
+      "sha256": "ad252f0f2a21d8f9891d63178609ffd0298e64171d7913c713690b7a90469200"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096083/clarinet.wav",
+      "bytes": 490412,
+      "sha256": "367a77718079a6ad278f8a7b0a83d69d2624eaeb00cfa81ed8f71a252d20c226"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096083/flute.wav",
+      "bytes": 490412,
+      "sha256": "fbb7de386d81ca0e168409f64eb9cd95743847e92e0bf7e11dd0a73621219653"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096084/clarinet.wav",
+      "bytes": 1170604,
+      "sha256": "efac864fc881248d78e63b16fa56c558c596fff8473c3b50e43f30601989a44d"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096084/flute.wav",
+      "bytes": 1170604,
+      "sha256": "4573a1f818d4778f8cd5ce7a7cbbc30a9f73afbebe7144adadcfce04fba1758a"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096085/clarinet.wav",
+      "bytes": 755628,
+      "sha256": "f4d088cfa896a287c7404cdc118123710ac776796047e3e4a3e487eab1a1d24f"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096085/flute.wav",
+      "bytes": 755628,
+      "sha256": "b2f53ef32538860370286ad3b3b8aabb59ec2342de2d4c5b25a29150727c2b53"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096086/clarinet.wav",
+      "bytes": 491436,
+      "sha256": "a0263b5161ded414a97f688705b5efbf53804036887be062067ee379a5a784aa"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096086/flute.wav",
+      "bytes": 491436,
+      "sha256": "57d96208edc1993f34c5a7f6638ac4a87ef3ebf881d169f65d3f5580a4e5d28f"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096087/clarinet.wav",
+      "bytes": 441900,
+      "sha256": "78121d3ae1ee8dbe69647ecbe86118ffd9f96380fa3f5413c81e2f51f35912b2"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096087/flute.wav",
+      "bytes": 441900,
+      "sha256": "6d23179413286716848e3aa30784817261a091012e918b52e18b58de88b2e589"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096088/clarinet.wav",
+      "bytes": 453676,
+      "sha256": "c7b02e99bb7e80efb5fa91f855a8af0a3195dba5b475df3229dabf8d9cd2d0c3"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096088/flute.wav",
+      "bytes": 453676,
+      "sha256": "6aee778b52d3904df15906e9cc69736183c21bbe664ec3b3174074693f74d0b5"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096089/clarinet.wav",
+      "bytes": 701100,
+      "sha256": "0242bd6a9e55cf2b45c681d8b5a9fe3003c26024218d5f1e717e3ac2227577f4"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096089/flute.wav",
+      "bytes": 701100,
+      "sha256": "81d1783d36e47c3915c060d65ebc1b0dfd64018b628da6c40be35b0405d5025f"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096090/clarinet.wav",
+      "bytes": 840236,
+      "sha256": "9cebd71fd66c99d63c9440ce353f52cd48a2ad2cb9001e14f48b084d437e9053"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096090/flute.wav",
+      "bytes": 840236,
+      "sha256": "7dd6bb339bc4901195da81df3ed8f9e56c3778218ac4637074cdaa79226b91b8"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096091/clarinet.wav",
+      "bytes": 772908,
+      "sha256": "8367379f1141adfbddc10b8ddd55e51e762d844743dbe8bff88f89bbf7534e9d"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096091/flute.wav",
+      "bytes": 772908,
+      "sha256": "207df4571c9f0ba9f2b940f1b0c6fb9ff2cf166cab764b0536d246f64a523cf4"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096092/clarinet.wav",
+      "bytes": 516140,
+      "sha256": "9c2fc3d32f40f6feb8d19d68c0bc949ed81f17c1ab8511196358d20c0aa3513b"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096092/flute.wav",
+      "bytes": 516140,
+      "sha256": "da0bc97238c5b38fde9b7ffaa708e5e642810cbdfba6104acda7cab6616d7d3f"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096093/clarinet.wav",
+      "bytes": 545068,
+      "sha256": "a73ae195ffccf579f2110d4593d553b199499306590395309d27afd05e18d0d5"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096093/flute.wav",
+      "bytes": 545068,
+      "sha256": "b0707d300757e0cfa04b556226662d3084474c25d638b2407c471448530c91b0"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096094/clarinet.wav",
+      "bytes": 448172,
+      "sha256": "0641f53e2ec4b1fdc59c0bc7976ecf5a0fa9e75b69aa2468f285a4cf64a5fdce"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096094/flute.wav",
+      "bytes": 448172,
+      "sha256": "4977c370887f37534fadb5adf10e88e09af079bb00d0405bb2785460515ab13a"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096095/clarinet.wav",
+      "bytes": 1023404,
+      "sha256": "461d595ed2c5e63a0f2315c4cd5969462f721e97795d44249034984ec00dae2a"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096095/flute.wav",
+      "bytes": 1023404,
+      "sha256": "6f187cba72ab6e76422f9fa966ace2ebb3792444c3567bfe25306d84e2cc8c49"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096096/clarinet.wav",
+      "bytes": 1191212,
+      "sha256": "b384fa219936b87b8d53c215b29c9578472e3d22d53be42300ff2bb822e7a194"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096096/flute.wav",
+      "bytes": 1191212,
+      "sha256": "2ff571b5844e7eea81ba13030545945ce802a8d30b3ead40176ee87c9721905b"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096097/clarinet.wav",
+      "bytes": 497964,
+      "sha256": "0b9da525497326be8ddc885be5d58ce6c90c612f3c762ba3aecd30eb0c0e1d8d"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096097/flute.wav",
+      "bytes": 497964,
+      "sha256": "3dd55ba34c41dfd3f72b31d779a0ba8521db7b37b72015d2423167a4bff72166"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096098/clarinet.wav",
+      "bytes": 480684,
+      "sha256": "f81f08c9b9b08ed70eec262d5dcba65282b232fe947e69b88d9c742086d133b0"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096098/flute.wav",
+      "bytes": 480684,
+      "sha256": "102515f27c3bf6883f0fa3c88fbbfadc2f74ba23a19b45e23b55de42c1c951ba"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096099/clarinet.wav",
+      "bytes": 494508,
+      "sha256": "7d2b784b60ed8aa2fc3acf3689f1d05eeb917982f4ed61beb6e587552279c3aa"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096099/flute.wav",
+      "bytes": 494508,
+      "sha256": "855aff0dd69e545d489bf6d85527482dc6d54cbe6036b033feb56cda24c1a56e"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096100/clarinet.wav",
+      "bytes": 561964,
+      "sha256": "291dd4671190e6b9e462227c9a65b66a7b6381151f4da324d0c5c22f89882089"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096100/flute.wav",
+      "bytes": 561964,
+      "sha256": "dd0b607fe64ff1039e4842409352c45237ce0f1db88fb88f7c02c083894266c2"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096101/clarinet.wav",
+      "bytes": 800812,
+      "sha256": "6682429306cdbe23a205fcd12d25471313836232332ef36638acecb01d91fee0"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096101/flute.wav",
+      "bytes": 800812,
+      "sha256": "762acc656dbc7f5a7895c3499860b132db13bde514da6cd6da24841b08721ce4"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096102/clarinet.wav",
+      "bytes": 791468,
+      "sha256": "f21e2b260a3b6d8ac5a08a8ebc4a75e899d538b313b6d9883f980c0a4ee7c129"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096102/flute.wav",
+      "bytes": 791468,
+      "sha256": "f96a8ffb7fa9fdc45f542fc506067fae7dd7c010f843071d273d457a84ad2ad1"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096103/clarinet.wav",
+      "bytes": 519980,
+      "sha256": "1aa05fdd8b815481b2038de7d8b08f1f52f13c9e6970dad65b60cc3b55a7d579"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096103/flute.wav",
+      "bytes": 519980,
+      "sha256": "f175642462653af755286d395407afa5d0844fa3a3b0f2d1e59613cc243346ec"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096104/clarinet.wav",
+      "bytes": 566700,
+      "sha256": "7934c5291094cda78ea26ca7b51d4d6b76fc99d8987f8455b5bc8245ebfaa699"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096104/flute.wav",
+      "bytes": 566700,
+      "sha256": "4dfdf3b5deacdede2d42190d13722365ce35270d341520b4b65c844c47cb3b3d"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096105/clarinet.wav",
+      "bytes": 949804,
+      "sha256": "153f978176a7f66ea9d320b0d47e435197c993c055f05a4aa1a390031f44bdd1"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096105/flute.wav",
+      "bytes": 949804,
+      "sha256": "78033685ad8385d5b2eb0b757b78c53d1bbebbd37564071a0a40cd22fe93bc56"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096106/clarinet.wav",
+      "bytes": 1023404,
+      "sha256": "8b7ce3c2e629f3e6bb0bd36d91fc70089d5d72557b0fc34f97b467ef7436aed6"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096106/flute.wav",
+      "bytes": 1023404,
+      "sha256": "f2b48f479f8c1b1dddcaa7b2d389fbe08b70b082639b365b641d3b53ac47a91f"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096107/clarinet.wav",
+      "bytes": 692908,
+      "sha256": "aa3074e0649b90567db857fccff6d0f0317888fd69d66f315369c77e1cf3337b"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096107/flute.wav",
+      "bytes": 692908,
+      "sha256": "d5bf24359776f4fc4eac0e18c74c13a81bebb87a056f71c410c6aa4e482381ca"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096108/clarinet.wav",
+      "bytes": 491692,
+      "sha256": "cf5d72ab3fe45cc6ee6448146bb576baebb22fb314d6e7a656688133e46d8516"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096108/flute.wav",
+      "bytes": 491692,
+      "sha256": "bb836cde19c6e5c1ed20c3f3ec7f8f36d98a020ea2890795d337d2fb82131005"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096109/clarinet.wav",
+      "bytes": 527916,
+      "sha256": "5107ba84e5058d1e302d226f290f4a8cb617cea317c2201a81262d3e58c77cab"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096109/flute.wav",
+      "bytes": 527916,
+      "sha256": "eabc6daa2d70bb803663e6190460710a9bf759864201ba16daa4b7a3684914a2"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096110/clarinet.wav",
+      "bytes": 477740,
+      "sha256": "04c964bb8bb98e0e2fcc9792e3ed924ffe6dbf1244a377426b321c5889c8b9ce"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096110/flute.wav",
+      "bytes": 477740,
+      "sha256": "6c7b61e2c49c196c0444320552788f65198ec606562140e93fb5ad1be7376441"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096111/clarinet.wav",
+      "bytes": 755372,
+      "sha256": "f64b53791bfd504c4a637397f0b2a5a21118147b2e5a9067600507661ea6f149"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096111/flute.wav",
+      "bytes": 755372,
+      "sha256": "70f75b47fc5c9c2b2b5c65a4eb7523420d603ed560c793585ba8cfcbf82ce187"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096112/clarinet.wav",
+      "bytes": 1214380,
+      "sha256": "62cd104d9bc12d098d69e659c7c6e970c6b774b0ea92c91b05a5c4c64eec1c62"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096112/flute.wav",
+      "bytes": 1214380,
+      "sha256": "d477ab4f5309ad8173006083f14a911e3cdb211793d29ab8842b2a93da751a43"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096113/clarinet.wav",
+      "bytes": 596652,
+      "sha256": "3229ba4e9a8c5af57cce5c88ffe0c1114958715fce18223011bebc781189ff75"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096113/flute.wav",
+      "bytes": 596652,
+      "sha256": "a5a5a0f918e1aad642e89cffc6070d59a7a189e20222750c3ec3715a229ed29b"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096114/clarinet.wav",
+      "bytes": 580908,
+      "sha256": "99cb5137e96653fa4804bee5123157639ac0f7b6e06ff45f553b213d39fe853b"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096114/flute.wav",
+      "bytes": 580908,
+      "sha256": "1ad171e21846a4547ea7ed99559043bf1e5fe23e0c6f432d2ab0ab5796fcc41a"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096115/clarinet.wav",
+      "bytes": 1110188,
+      "sha256": "c891a8b51b89741be9ae06761a712e43a3b3298fc403036095caed0da705c0ac"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096115/flute.wav",
+      "bytes": 1110188,
+      "sha256": "3ea84fd1b3cbfeb3ef3f940ca359273b6a8e58bebd258c25b16477642f68195d"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096116/clarinet.wav",
+      "bytes": 1055916,
+      "sha256": "8c8e49c7acdfc689eb0d4f742b23e1c933308cd9e984e7f47e0c022c02ee37ce"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096116/flute.wav",
+      "bytes": 1055916,
+      "sha256": "18c6fff899d7db045b56b9a31bdfe8845d789931e6059f54878b21c801484e55"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096117/clarinet.wav",
+      "bytes": 755884,
+      "sha256": "ef829c4aaf4d780a290e310d6d3ca4a17d74fb674d868a395740f594d52b4f24"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096117/flute.wav",
+      "bytes": 755884,
+      "sha256": "21028a53ea679eb966ce2db0eaad2cb7d8b57d5c9c8cd992abd8eadb28e246bb"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096118/clarinet.wav",
+      "bytes": 647084,
+      "sha256": "7749d16e0c66b7f243e3d33489e35a9c9a465111c3c835b0aecfc9fdbbc6c18d"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096118/flute.wav",
+      "bytes": 647084,
+      "sha256": "2761097190decb5057a0e0c44ea05d0fa856ee0b26332c59cff6ca6255d785d2"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096119/clarinet.wav",
+      "bytes": 635180,
+      "sha256": "4f645c2e0692fb96714df2804bf73c737b46b2a635b7c370e5586165eb8b1fc7"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096119/flute.wav",
+      "bytes": 635180,
+      "sha256": "3a1c238882bc708ca09d36e0602f2fe43393ff830fe1ad6d9a189404156d20d0"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096120/clarinet.wav",
+      "bytes": 800684,
+      "sha256": "1186d86e3261ef63a9c2624912899cc9b3cd9d2ab624ff4e822651e7c7fd07e4"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096120/flute.wav",
+      "bytes": 800684,
+      "sha256": "7d62f894e97c68af149de668f00acfd87221cb9b06049ce23b698baf65b08a46"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096121/clarinet.wav",
+      "bytes": 444716,
+      "sha256": "8588224c948266e4ce02f67f63db4735499b125fcb8e553396d4a99c09126b79"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096121/flute.wav",
+      "bytes": 444716,
+      "sha256": "849f7028769fb24f298eea56091a39fbd84572d7b3409139f15d996f26cabb44"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096122/clarinet.wav",
+      "bytes": 790700,
+      "sha256": "7cda2e81ff90f3baeaa13e23ac8d9f7ca9809afe3eda531393fad0c5e39648a2"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096122/flute.wav",
+      "bytes": 790700,
+      "sha256": "10403252f27fd5f7ed3762edaa9113896093a5ac68cc788af8f9343674680a72"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096123/clarinet.wav",
+      "bytes": 1091500,
+      "sha256": "88b2be87d2bb074e2f0cebc0ae3b08f1cca90d789d04be33ccc0ba66b11b3a30"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096123/flute.wav",
+      "bytes": 1091500,
+      "sha256": "d3515e36d1503ccb573fa27e0361a082a1ce98d1b14ab166cb8bdf1513defa95"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096124/clarinet.wav",
+      "bytes": 763692,
+      "sha256": "a2d1fb168083c8db1dc69380eaf2eafbd88e103cbc4da0aee0b44a9eabf5875b"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096124/flute.wav",
+      "bytes": 763692,
+      "sha256": "39f4f7599a183086fc527ed50f61aadbcc2665c4df769d839ec76a916b565d6c"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096125/clarinet.wav",
+      "bytes": 450604,
+      "sha256": "caa46ac94f7623665a28a3ff65a57273384f4f9e1bc1d476009341c9b8414da7"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096125/flute.wav",
+      "bytes": 450604,
+      "sha256": "edcde436ba63c1bea15db150283a2b115545e959003c2e03b761802b53e5a4f9"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096126/clarinet.wav",
+      "bytes": 723500,
+      "sha256": "36b9b36dd1ffe8cf3fd80ce69554bbf6d524422059bdd10479fcbc794086673c"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096126/flute.wav",
+      "bytes": 723500,
+      "sha256": "69ed0ad0f919642b8055e930649acf8307ec8eac5be5b046ce68f1e6a8aeef72"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096127/clarinet.wav",
+      "bytes": 672812,
+      "sha256": "664f02b3b2c87e1f0e4de8b4c03336b4880dc8c48bff683a173f27a67bfc40a8"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096127/flute.wav",
+      "bytes": 672812,
+      "sha256": "2d7c951164cab93f896df36719244c32ca67d8d1db9ee70cc5f6edbddb1cf0f3"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096128/clarinet.wav",
+      "bytes": 536364,
+      "sha256": "2ab664d11538d3918d3335510d1a2ad30141a6af5937736358829938f9cf2e3d"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096128/flute.wav",
+      "bytes": 536364,
+      "sha256": "551bc518433f9a4d5b76f5315dc0af46ba3f6151700936fbe04140416e30ee72"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096129/clarinet.wav",
+      "bytes": 755244,
+      "sha256": "5a8b347003ad6030e128207abfd3fefca54819d8575e8b8753f7ab29b156f613"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096129/flute.wav",
+      "bytes": 755244,
+      "sha256": "787916098e1d68ddf0e548d49c67982d0b145a6207a693b371deece71f18cfb2"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096130/clarinet.wav",
+      "bytes": 450732,
+      "sha256": "2fd176bb93695a113eacf2340472f609762b8cb49ba35e0de77d6bf249638e5c"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096130/flute.wav",
+      "bytes": 450732,
+      "sha256": "25e11b940b03a9602e50a8ad4ab61e39df971f6caa314f6d9f5464582e3d3931"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096131/clarinet.wav",
+      "bytes": 685740,
+      "sha256": "9d4bdf8f1fcc20608ef3c0d17814c339d20ee40ffb37556dc05ab21a1c1f2f70"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096131/flute.wav",
+      "bytes": 685740,
+      "sha256": "8216ba482246ad819278f39f57ae8753b7bb3f79fdad94f9820a090fdd224331"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096132/clarinet.wav",
+      "bytes": 923052,
+      "sha256": "04db62be5db86a5a7419f798d58f00aa31cb23f4b5007056f308520b6de094d0"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096132/flute.wav",
+      "bytes": 923052,
+      "sha256": "272dc8a117af3961fece4cfd2479cea32e354feac238fc497efd78f2cb36b9b9"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096133/clarinet.wav",
+      "bytes": 1191724,
+      "sha256": "21d8c0034c61728dd9ee3cbabfa92e657e1f9ae7ec543c4281148ef06e6f4627"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096133/flute.wav",
+      "bytes": 1191724,
+      "sha256": "8bcac51bf9fdb9f514b5365accc0aca38656e37b85a8deff4c10ee5ad0b5153d"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096134/clarinet.wav",
+      "bytes": 1130156,
+      "sha256": "69c913779a2d08c2f346f9318001166ff984b362b224945e45b52fc3e08ca168"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096134/flute.wav",
+      "bytes": 1130156,
+      "sha256": "dad139e4e7e2477bac1b0cd48bec76625a5d6a22a3641757ac1aa4fc5e2dde81"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096135/clarinet.wav",
+      "bytes": 532012,
+      "sha256": "19c3e846b43e05ef086edbc1a250df07e61299f5c1b78292b5a3b0eb58d5f31e"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096135/flute.wav",
+      "bytes": 532012,
+      "sha256": "ce61053af3a6dfb6aace60df2d7a907a490c902bce1cefeb790102eba4bf5607"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096136/clarinet.wav",
+      "bytes": 659116,
+      "sha256": "355beb6f8f3950e0aee331476ea03e0798ac6462051688c892f9d0528d6e20cc"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096136/flute.wav",
+      "bytes": 659116,
+      "sha256": "49e5c2a0d9f7ca33d724969f5179e0c1ddc47a6ff09f142ec0f763e8317795f1"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096137/clarinet.wav",
+      "bytes": 581292,
+      "sha256": "bb955d975a61a7f59f709483ef0f60de0647c13417dde73bd7e476ee2bfac545"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096137/flute.wav",
+      "bytes": 581292,
+      "sha256": "1c844fce9193d186f433981b82d04119a2b1694637e3b55f31cb761cc2f7c3ca"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096138/clarinet.wav",
+      "bytes": 585644,
+      "sha256": "0c3e24c19b8b69b7f62af4d59225a373b6c4098318223ac9598327d08fbf8121"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096138/flute.wav",
+      "bytes": 585644,
+      "sha256": "eb91ccbbf0b3f87ae0aa94f78cad9aa1a7b8d330ed03b82422010dd07a567b83"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096139/clarinet.wav",
+      "bytes": 686764,
+      "sha256": "602f11db795863e1558a173200c1937753ee0490cbd11744d5604e6b72552ad4"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096139/flute.wav",
+      "bytes": 686764,
+      "sha256": "9caa6370d50d1654c6527b656043d90668e967d4707d6c5198716876e2b7b8f4"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096140/clarinet.wav",
+      "bytes": 764460,
+      "sha256": "f731928f383a28c6c493888b2087a41f933e16863b02fb30b6b67730e966e4bf"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096140/flute.wav",
+      "bytes": 764460,
+      "sha256": "b300c66982bb785dca10968c106061eb749d5bf33ce6aee9e1485146baafd488"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096141/clarinet.wav",
+      "bytes": 566956,
+      "sha256": "7484dd240a8fa534ad2cb4fe8b02a5e25c712a01d0d60b6632619c9a2f633a67"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096141/flute.wav",
+      "bytes": 566956,
+      "sha256": "41c23e8f158c04f55d9c169ec8f4655023859e523da1b11af73b4e71ba69d581"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096142/clarinet.wav",
+      "bytes": 1170604,
+      "sha256": "77247a70b7201e2d647775b327f53c451a63940389ce4c3628a4ced159157615"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096142/flute.wav",
+      "bytes": 1170604,
+      "sha256": "3ee2cb8954034038dbf5aaae42b72ed9024b638ad7b3aff6cceec2dc8f45e76b"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096143/clarinet.wav",
+      "bytes": 532012,
+      "sha256": "1572f17c1b9254debc0dca1214a56084d69220094351b45531dff2102e63e067"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096143/flute.wav",
+      "bytes": 532012,
+      "sha256": "7d9c805922c49452edefe42fc66ca56d9ec96fdacee77270c2d5e2e5a6d8c3af"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096144/clarinet.wav",
+      "bytes": 1129388,
+      "sha256": "50c607683cf1b387e340a105fe1dc4335ceb351db01526f55d714c75b7cd42de"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096144/flute.wav",
+      "bytes": 1129388,
+      "sha256": "35c2b1d9380b75bf238ea3e1803ba5dc3dc337372b3060359a9485c7942280d7"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096145/clarinet.wav",
+      "bytes": 1191724,
+      "sha256": "4dedfc466e99144348eab5c417fa0b7b3578c0df52fd5b0600ae9bf0d8dc3f5c"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096145/flute.wav",
+      "bytes": 1191724,
+      "sha256": "20ceeb4a31e26c9737d8cb69da71bd8acd02385c545420a54ac98bca211cceb2"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096146/clarinet.wav",
+      "bytes": 576300,
+      "sha256": "f99cfc5a0b2204a69623ef7a22b1f0999ded602011fb58509e6ffa1bf809d871"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096146/flute.wav",
+      "bytes": 576300,
+      "sha256": "5fefad8bd1defb0c9dfcd2e1c77f6692a7feb64edd671bf779432f58a5723b5e"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096147/clarinet.wav",
+      "bytes": 498092,
+      "sha256": "bd1712f9dd46a59a4fab13ff2bb233c61859283dd7d5ffdb0059875e7db84ad0"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096147/flute.wav",
+      "bytes": 498092,
+      "sha256": "080a6cbee9a8ce50e5fbb2a9b259186e27495f980dbe3f05d126946862850115"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096148/clarinet.wav",
+      "bytes": 458924,
+      "sha256": "5847b27ecfee25bac2f25b62cd38909990fe9f2ba8615de9b48f34b521aa8043"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096148/flute.wav",
+      "bytes": 458924,
+      "sha256": "ba6edb9f863b3f3c640ce80b268f19ba1c226fe29530317903d8d49d7e518540"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096149/clarinet.wav",
+      "bytes": 494892,
+      "sha256": "f84b25c063fb050d85e09be0bf0b33a6c5ed88fe8367e906aabaacb8dd103471"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096149/flute.wav",
+      "bytes": 494892,
+      "sha256": "745dc3fb505adbe5679a61a2d5f8437575d7dd69ba128efb2e2651380f6f31b2"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096150/clarinet.wav",
+      "bytes": 1170220,
+      "sha256": "6fc2b537fc8a3ede2cec9500fad12c0e5ec1b801df03262369a3df1ecd834f4f"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096150/flute.wav",
+      "bytes": 1170220,
+      "sha256": "a1c170fc6d74c72a7c0cbd5425d7c9089de8b106208ec44ecc4d980c8bc35bff"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096151/clarinet.wav",
+      "bytes": 1170476,
+      "sha256": "e0bdf686da89460e1f430f2ae7fccb98d8aa96232cf744966c5ac216a77a8fd4"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096151/flute.wav",
+      "bytes": 1170476,
+      "sha256": "968fc2e62984155829b0ea4c62cdb5fd86ea2baf7f80909c80f9c8a355d4371a"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096152/clarinet.wav",
+      "bytes": 459052,
+      "sha256": "1b0fdeee5388ac58bf9113fc068f1fe1030ffb2d3224f309f390d15268eb9621"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096152/flute.wav",
+      "bytes": 459052,
+      "sha256": "903ca0e8334d1baa15d45fbe4df0b07b2c5ca08d84a3902eca0eb6bd07b7db3a"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096153/clarinet.wav",
+      "bytes": 453932,
+      "sha256": "4133302bd0a0324d9e4db3a69cc85c7caafc3491d870e8046c71ec55330cda9e"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096153/flute.wav",
+      "bytes": 453932,
+      "sha256": "a3e71d2a3f23b2a72651b81df1d7fc460f3699dc8ba802ceb7b8cc076a3b2e32"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096154/clarinet.wav",
+      "bytes": 773164,
+      "sha256": "e440606cdb20506c220bb4a4a640fb8a10308f9bb13220e34d1b81616c16a767"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096154/flute.wav",
+      "bytes": 773164,
+      "sha256": "cf006dab50c42757a62ab08f53673d520347429c6b1988ea7192fddf67ba6f7f"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096155/clarinet.wav",
+      "bytes": 714796,
+      "sha256": "c6ac73a54e9c2d46fa4691d8e8de460591a3f98db19cc9348ec41ad53e5fa193"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096155/flute.wav",
+      "bytes": 714796,
+      "sha256": "6c6dcd039c4a4b1833d2c4b1dbc4430d450d76891bb6b5faf3761a49085c11dc"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096156/clarinet.wav",
+      "bytes": 1170732,
+      "sha256": "91f69bf7a7bc9d48cbcef9bd077afacebb8e80e91989cb02ea7f141586a547e5"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096156/flute.wav",
+      "bytes": 1170732,
+      "sha256": "1c03bdacb14bf14b0ac69f927c93f58ab2d7c4cba0ec24da9462ceb9d890ad0c"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096157/clarinet.wav",
+      "bytes": 686380,
+      "sha256": "36012d0fca3c2fff95040f5139d852e211e71281eb7d176a301afdf33d543d3d"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096157/flute.wav",
+      "bytes": 686380,
+      "sha256": "8d90e58d5e095c89df9b79c4e59a289798f53089346b8842713d9ea67306a8d2"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096158/clarinet.wav",
+      "bytes": 873644,
+      "sha256": "f23d00eea61891c2580ce58006bf6057e161fdf1f213e5ebd787a4fedd5774f4"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096158/flute.wav",
+      "bytes": 873644,
+      "sha256": "b132a848b53a9475c4b1bb4e805de53abde4eaac33bda399fd2256ec320297df"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096159/clarinet.wav",
+      "bytes": 462892,
+      "sha256": "6c8035e6607ba02428e31dd6239bd5f490441f4a58ce83b444711fc0fbf7028c"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096159/flute.wav",
+      "bytes": 462892,
+      "sha256": "4160ba093cdbec95015a8c421bb78535886eb02267225e00ba77533ab24a2cdd"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096160/clarinet.wav",
+      "bytes": 494252,
+      "sha256": "0974c5fc7ab529194574a199a1000d74d100879f761911a9f8d7b797367480d1"
+    },
+    {
+      "path": "data/CocoChorales/pairs/train/woodwind_track096160/flute.wav",
+      "bytes": 494252,
+      "sha256": "2c993284f278388eca1cf9d0e8afd34f8329416e138c7fd849fcfe5a1988041b"
+    }
+  ],
+  "archive_bytes": 290306605,
+  "archive_sha256": "3d34e812c608dc88c1ec8dc14f2554ef204a330aac65ee8298e1c98acccbefe3",
+  "original_file_count": 321,
+  "source_bytes": 375185373
+}

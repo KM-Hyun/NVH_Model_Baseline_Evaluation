@@ -1,0 +1,7 @@
+/generated/
+__pycache__/
+*.log
+*.tmp
+/upload_status.json
+/upload_background.pid
+/upload_background.lock
