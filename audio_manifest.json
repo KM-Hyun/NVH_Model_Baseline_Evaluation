@@ -1,0 +1,47 @@
+[
+  {
+    "file": "full_audio/clarinet.wav",
+    "seconds": 3601.704,
+    "sample_rate": 10000,
+    "channels": 1,
+    "subtype": "FLOAT",
+    "sha256": "b8d6b8d437731be365b4f6f6de7671c67a0889a8f65318bfbb38481ce96986c8",
+    "bytes": 144068240
+  },
+  {
+    "file": "full_audio/flute.wav",
+    "seconds": 3601.704,
+    "sample_rate": 10000,
+    "channels": 1,
+    "subtype": "FLOAT",
+    "sha256": "bc0a118c4ffc4fbe54ec65d628e12e66816c2a1c554d563cd3a4ff6bb91cbb12",
+    "bytes": 144068240
+  },
+  {
+    "file": "full_audio/hood_fan.wav",
+    "seconds": 3601.704,
+    "sample_rate": 10000,
+    "channels": 1,
+    "subtype": "FLOAT",
+    "sha256": "7de58e49e6ad399386d971fa4d7fc3c55b6f427f76fc322ab6c0f43457a71749",
+    "bytes": 144068240
+  },
+  {
+    "file": "full_audio/mixture_2.wav",
+    "seconds": 3601.704,
+    "sample_rate": 10000,
+    "channels": 1,
+    "subtype": "FLOAT",
+    "sha256": "e2ba1695671271be8e75deae255cd59f08ef91282f7e6d3b2f43887f394fe886",
+    "bytes": 144068240
+  },
+  {
+    "file": "full_audio/mixture_3.wav",
+    "seconds": 3601.704,
+    "sample_rate": 10000,
+    "channels": 1,
+    "subtype": "FLOAT",
+    "sha256": "f805463ef40ed5931330323096a973e8c404cf785a5d4013cfe98af9dbf67747",
+    "bytes": 144068240
+  }
+]

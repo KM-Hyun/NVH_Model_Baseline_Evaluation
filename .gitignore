@@ -5,3 +5,4 @@ __pycache__/
 /upload_status.json
 /upload_background.pid
 /upload_background.lock
+/source_audio.tar.gz
